@@ -1,4 +1,4 @@
-{{-- layouts/admin.blade.phpを読み込む --}}
+
 @extends('layouts.admin')
 
 
@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 mx-auto">
-                <h2>'マイプロフィール'</h2>
+                <h2>マイプロフィール</h2>
             </div>
         </div>
     </div>
